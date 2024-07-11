@@ -1,6 +1,6 @@
 ## Next.js Starter Course
 
-This is just a Next.js Starter Course. It uses TypeScript and Tailwind CSS
+This project is just a Next.js Starter Course. It uses TypeScript and Tailwind CSS
 
 # Use
 
